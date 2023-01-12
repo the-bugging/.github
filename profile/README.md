@@ -6,7 +6,6 @@
 
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Contributors](#contributors)
 - [License](#license)
 
 ---
