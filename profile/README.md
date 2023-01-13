@@ -1,7 +1,5 @@
 # the-bugging
 
-> TheBugging is a simple and lightweight library for logging and debugging your code.
-
 ## Table of Contents
 
 - [Requirements](#requirements)
