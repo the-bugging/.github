@@ -12,7 +12,7 @@
 
 - Grab your _projectKey_ at [www.thebugging.com](https://www.thebugging.com).
 
-> P.S.: This is only for web projects as it heavyly depends on the DOM window.
+> P.S.: This is only for web projects as it heavily depends on the DOM window.
 
 > P.S.2: It is SSR ready for projects using Next.js but still only meant to be run on the client.
 
