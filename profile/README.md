@@ -4,7 +4,6 @@
 
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [License](#license)
 
 ---
 
@@ -68,9 +67,3 @@ function MyApp({ Component, pageProps }) {
 
 export default MyApp;
 ```
-
----
-
-## License
-
-Istanbul Badges Readme is [MIT licensed](./LICENSE).
