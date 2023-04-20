@@ -1,6 +1,6 @@
 # the-bugging
 
-TheBugging is a complete SaaS platform that offers error logging, helping identify and fix production bugs in real-world web applications. We also strongly believe in open-source and giving back to the community that has supported us.
+TheBugging is a complete SaaS platform that offers error logging, helping identifying and fixing production bugs in real-world web applications. We also strongly believe in open-source and giving back to the community that has supported us.
 
 ## Table of Contents
 
