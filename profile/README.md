@@ -51,6 +51,7 @@ As a part of our commitment to the open-source community, we have made available
 - [react-use-downloader](https://github.com/the-bugging/react-use-downloader): A React Hook to download files from an URL.
 - [react-use-scripts](https://github.com/the-bugging/react-use-scripts): A React Hook to dynamically load scripts.
 - [react-use-presentation](https://github.com/the-bugging/react-use-presentation): A React Hook to create presentations easily.
+- [react-use-modals](https://github.com/the-bugging/react-use-modals): A React Hook to create which allows ease of use on HTML dialogs.
 
 ---
 
